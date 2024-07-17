@@ -2,7 +2,7 @@
 
 ## Asunto: ¡Revoluciona tu hogar con nuestras pilas de hidrógeno!
 
-![Email Header](./mnt/data/email-header.png)
+![Email Header](https://github.com/NickBoites/BEDU-IA-M1/blob/main/email-header.png)
 
 Hola [Nombre del Cliente],
 
@@ -32,4 +32,4 @@ Saludos cordiales,
 [Su Empresa]  
 [Contacto]
 
-![Email Footer](./mnt/data/email-footer.png)
+![Email Footer](https://github.com/NickBoites/BEDU-IA-M1/blob/main/email-footer.png)
