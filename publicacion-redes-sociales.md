@@ -1,6 +1,6 @@
 # Publicación para Redes Sociales (FB)
 
-![FB Image](https://github.com/NickBoites/BEDU-IA-M1/blob/main/fb%20image.png)
+![FB Image](https://github.com/NickBoites/BEDU-IA-M1/blob/main/fb-image.jpg)
 
 🌟 ¡Transforma tu hogar con energía limpia y asequible! 🌟  
 Descubre nuestras pilas de hidrógeno:  
